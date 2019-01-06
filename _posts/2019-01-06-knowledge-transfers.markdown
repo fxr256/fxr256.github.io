@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Knowledge transfers don't scale"
 date:   2019-01-03 18:00:01 +0100
 categories: working culture
