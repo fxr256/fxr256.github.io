@@ -13,4 +13,15 @@ $brand-color: #ff8e61;
 
 $content-width: 1200px;
 
+.highlighter-rouge {
+    color: $background-color;
+}
+
+.k {
+    color: $background-color;
+}
+
+.n {
+    color: $background-color;
+}
 @import "{{ site.theme }}";
