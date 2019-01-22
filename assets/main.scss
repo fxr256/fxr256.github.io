@@ -24,4 +24,13 @@ $content-width: 1200px;
 .n {
     color: $background-color;
 }
+
+.kd {
+    color: $background-color;
+}
+
+.o {
+    color: navy;
+}
+
 @import "{{ site.theme }}";
