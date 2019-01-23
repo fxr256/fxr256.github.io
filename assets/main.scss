@@ -30,7 +30,11 @@ $content-width: 1200px;
 }
 
 .o {
-    color: navy;
+    color: #445588;
+}
+
+.kc {
+    color: #445588;
 }
 
 @import "{{ site.theme }}";
