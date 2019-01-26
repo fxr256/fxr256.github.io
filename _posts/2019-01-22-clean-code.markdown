@@ -73,29 +73,29 @@ This code snippet deals with employee absences. The comment at the top of the if
 
 There is one last example which I would like to present:
 {% highlight java %}
-  private boolean compareBalanace(BigDecimal oldBalance, BigDecimal newBalance ){
-      if(oldBalance != null && newBalance != null){
-        if (oldBalance.compareTo(newBalance) == 0){
-            return true;
-        }
-      } else {
-           return Objects.equals(oldBalance,newBalance);
+private boolean compareBalanace(BigDecimal oldBalance, BigDecimal newBalance ){
+    if(oldBalance != null && newBalance != null){
+      if (oldBalance.compareTo(newBalance) == 0){
+          return true;
       }
-    return false; 
-  }
+    } else {
+      return Objects.equals(oldBalance,newBalance);
+    }
+  return false; 
+}
 {% endhighlight %}
 What can be improved here? The most obvious example is the spelling mistake in the method name. But let's look at the method name in general. What does `compareBalance` actually mean? This method returns a boolean, so the method will probably be used in some kind of if-statement. `CompareBalance` does not tell you what actually is getting compared and when the method will return `true`. Also, the usage of `compareTo` here might raise some eyebrows, as it is only used to check for equality. There is a reason for this which might be made more clear with a comment. Here is an improved version of the code:
 {% highlight java %}
-  private boolean isBalanceUnchanged(BigDecimal oldBalance, BigDecimal newBalance ){
-      if(oldBalance != null && newBalance != null){
-      	// uses "compareTo" rather than "equals" to ignore trailing commas during the comparison
-        if (oldBalance.compareTo(newBalance) == 0){
-            return true;
-        }
-      } else {
-           return Objects.equals(oldBalance,newBalance);
+private boolean isBalanceUnchanged(BigDecimal oldBalance, BigDecimal newBalance ){
+    if(oldBalance != null && newBalance != null){
+    	// uses "compareTo" rather than "equals" to ignore trailing commas during the comparison
+      if (oldBalance.compareTo(newBalance) == 0){
+          return true;
       }
-    return false; 
+    } else {
+         return Objects.equals(oldBalance,newBalance);
+    }
+  return false; 
   }
 {% endhighlight %}
 
