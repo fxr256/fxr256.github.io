@@ -3,16 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Hi, I'm Felix. I've been working in software development since 2011. This blog is a collection of my thoughts on various topics in professional software development. Focus topics are clean code, automated tests, anti-patterns, object orientation and scalable team organization. The blog is powered by [jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/).
+The name "Thinking Sideways" is inspired by this quote out of Jim Butcher's [Codex Alera](https://www.goodreads.com/series/45545-codex-alera) series:
+>There’s something broken inside your skull, Calderon. You do all your thinking sideways.
