@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Thinking Sideways
-email: felix.gerhard.roth@gmail.com
+email: thinkingsideways@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of my thoughts on various topics in professional software development. 
   Focus topics are clean code, automated tests, anti-patterns, object orientation and
