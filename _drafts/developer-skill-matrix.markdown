@@ -12,7 +12,7 @@ So, how do you manage developers with highly different skill levels? In my opini
 
 The next step after accepting the skill variance is to get a good feeling for the distribution of skill levels in your team. I have come up with a simple way to categorize team members:
 
-![UI image](/images/matrix.png)
+![UI image](/images/matrix.svg)
 
 As you can see, I have divided team members into four groups, similar to the way products are categorized in the [BCG matrix](https://www.strategicmanagementinsight.com/tools/bcg-matrix-growth-share.html). The x-axis measures the raw output of a developer (lines of code, amount of bugs fixed, amount of customer issues solved etc.) while the y-axis is the quality of this output. This is, of course, a very simplified view, but the "fuzzy" nature of this problem makes it hard to come up with a more precise one. In the lower left corner, we have developers with low output and low quality. I've dubbed them **plants** as their presence in the office does not really make a difference (similar to potted plants). The low quality of their work is not overly important as their output is so low. They will not mess up your code base beyond repair or ostracize all your customers because of how badly they process support requests. Nevertheless, they can cause a lot of [resentment](https://stevemcconnell.com/articles/dealing-with-problem-programmers/) in the team. Still, it is probably not a good idea to focus too much management "energy" on them as the return of investment is so low.
 

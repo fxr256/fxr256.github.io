@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg52"
+   height="113.61mm"
+   width="149.69mm"
+   version="1.0">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <clipPath
+       id="clipEmfPath1"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path2"
+         d="M -14.268819,0.1603238 L 551.35356,0.1603238 L 551.35356,429.82812 L -14.268819,429.82812 z" />
+    </clipPath>
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <path
+     id="path8"
+     d="  M 40.802408,15.952218   L 40.802408,376.03948   L 38.076903,376.03948   L 38.076903,15.952218   L 40.802408,15.952218  z    M 35.351399,17.314971   L 39.439656,9.1384568   L 43.527913,17.314971   L 35.351399,17.314971  z   "
+     clip-path="url(#clipEmfPath1)"
+     style="fill:#ff8e61;fill-rule:nonzero;fill-opacity:1;stroke:#ff8e61;stroke-width:0.020040475px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path10"
+     d="  M 535.86227,374.59657   L 39.439656,374.59657   L 39.439656,377.32207   L 535.86227,377.32207   L 535.86227,374.59657  z    M 534.49952,380.04758   L 542.67604,375.95932   L 534.49952,371.87106   L 534.49952,380.04758  z   "
+     clip-path="url(#clipEmfPath1)"
+     style="fill:#ff8e61;fill-rule:nonzero;fill-opacity:1;stroke:#ff8e61;stroke-width:0.020040475px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path12"
+     d="  M 542.67604,187.57885   L 39.439656,187.57885  "
+     style="fill:none;stroke:#ff8e61;stroke-width:2.0842094px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1;" />
+  <path
+     id="path14"
+     d="  M 290.9877,375.9994   L 290.9877,13.627523  "
+     style="fill:none;stroke:#ff8e61;stroke-width:2.0842094px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1;" />
+  <text
+     id="text20"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,243.474633,408.178612)"
+     style="font-size:24.062500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan18"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan16"
+         style="fill:#FF8E61;font-size:24.062500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Calibri;"
+         dy="0.000000"
+         dx="0.000000">Output</tspan></tspan></text>
+  <text
+     id="text26"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(-0.000000,1.000000,-1.000000,-0.000000,7.363427,155.408153)"
+     style="font-size:24.062500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan24"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan22"
+         style="fill:#FF8E61;font-size:24.062500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Calibri;"
+         dy="0.000000"
+         dx="0.000000">Quality</tspan></tspan></text>
+  <text
+     id="text32"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,381.597700,107.793256)"
+     style="font-size:24.062500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan30"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan28"
+         style="fill:#E6E6E6;font-size:24.062500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Calibri;"
+         dy="0.000000"
+         dx="0.000000">Stars</tspan></tspan></text>
+  <text
+     id="text38"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,126.506735,284.048337)"
+     style="font-size:24.062500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan36"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan34"
+         style="fill:#E6E6E6;font-size:24.062500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Calibri;"
+         dy="0.000000"
+         dx="0.000000">Plants</tspan></tspan></text>
+  <text
+     id="text44"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,119.739268,108.425079)"
+     style="font-size:24.062500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan42"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan40"
+         style="fill:#E6E6E6;font-size:24.062500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Calibri;"
+         dy="0.000000"
+         dx="0.000000">Glaciers</tspan></tspan></text>
+  <text
+     id="text50"
+     y="0.000000"
+     x="0.000000"
+     transform="matrix(1.000000,-0.000000,0.000000,1.000000,381.597700,284.048337)"
+     style="font-size:24.062500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;line-height:125.000000%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Calibri;text-align:start;text-anchor:start;"
+     xml:space="preserve"><tspan
+       id="tspan48"
+       y="0.000000"
+       x="0.000000"><tspan
+         id="tspan46"
+         style="fill:#E6E6E6;font-size:24.062500px;font-style:normal;font-variant:normal;font-weight:400;font-stretch:Normal;font-family:Calibri;"
+         dy="0.000000"
+         dx="0.000000">Volcanoes</tspan></tspan></text>
+</svg>
