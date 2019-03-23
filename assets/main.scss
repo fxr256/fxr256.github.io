@@ -17,24 +17,54 @@ $content-width: 1200px;
     color: $background-color;
 }
 
+figure > pre {
+	background-color: $background-color;
+}
+
+figure > pre > code {
+	background-color: $background-color;
+}
+
 .k {
-    color: $background-color;
+    color: $text-color;
 }
 
 .n {
-    color: $background-color;
+    color: $text-color;
 }
 
 .kd {
-    color: $background-color;
+    color: $text-color;
 }
 
 .o {
-    color: #445588;
+    color: $brand-color;
 }
 
 .kc {
-    color: #445588;
+    color: $brand-color;
+}
+
+.na {
+    color: #00CED1 !important;
+}
+
+.highlight .nf {
+    color: $text-color !important;
+    font-weight: normal !important;
+}
+
+.highlight .nc {
+    color: $text-color !important;
+    font-weight: normal !important;
+}
+
+.highlight .kt {
+    color: $text-color !important;
+}
+
+.highlighter-rouge {
+	font-weight: bold;
 }
 
 @import "{{ site.theme }}";
