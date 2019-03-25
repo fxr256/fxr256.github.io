@@ -65,6 +65,8 @@ So, what's happening here? We've got a list of citrus fruits which may contain a
       lemons.add((Lemon) citrusFruit);
     }
   }
+  fruitStore.stockFruit(Limes.class, limes);
+  fruitStore.stockFruit(Lemon.class, lemons);
 {% endhighlight %}
 
 This code compiles without errors, is shorter and trivial to understand. It is also less flexible: The loop cannot handle any new implementations of `CitrusFruit` by default. If the list of supported types becomes too long, we might have to use a different solution. However, for the moment, this solution is much better than the previous one. I don't know why the more flexible solution was chosen - whoever wrote the code probably had good reasons. Nevertheless, I know that no further subclasses of `CitrusFruit` was introduced in the past 1.5 years. Hence, I'm quite confident that my solution will not become a problem due to its low flexibility in the foreseeable future.
