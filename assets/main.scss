@@ -10,6 +10,7 @@ $text-color: #e6e6e6; /* an off-white for the text */
 $grey-color-light: #565656; /* for the border-top separators */
 $grey-color-dark: #dfdfdf; /* such as the site title in the header, visited */
 $brand-color: #ff8e61;
+$quote-color: #ffcdb9;
 
 $content-width: 1200px;
 
@@ -46,7 +47,7 @@ figure > pre > code {
 }
 
 .na {
-    color: #00CED1 !important;
+    color: #00ced1 !important;
 }
 
 .highlight .nf {
@@ -65,6 +66,13 @@ figure > pre > code {
 
 .highlighter-rouge {
 	font-weight: bold;
+}
+
+blockquote {
+  color: $quote-color !important;
+  border-left-width: 2px !important;
+  border-left-color: $quote-color !important;
+  letter-spacing: normal !important;
 }
 
 @import "{{ site.theme }}";
