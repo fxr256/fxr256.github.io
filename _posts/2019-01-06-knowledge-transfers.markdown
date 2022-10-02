@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "The Trouble with Knowledge Transfers"
+title:  "The Trouble with Knowledge Transfer Meetings"
 date:   2019-01-03 18:00:01 +0100
 categories: working culture
 ---
-Have you ever done a knowledge transfer? If so, how do you feel about it now?
+Have you ever done a knowledge transfer meeting? If so, how do you feel about it now?
 Do you think it was helpful, that you achieved something? Or do you consider it
 a waste of time?
 
-Personally, I'm dissatisfied with the knowledge transfers I gave in the past. While I think I 
+Personally, I'm dissatisfied with the knowledge transfer meetings I gave in the past. While I think I 
 managed to transfer some knowledge, I'm quite sure that I didn't get the best end result for the
-used time and effort. To clarify: When talking about knowledge transfers, I mean dedicated meetings
+used time and effort. To clarify: When talking about knowledge transfer meetings, I mean dedicated meetings
 (usually an hour long) where some expert educates a number of participants about some topic. Usually, the
 meeting is recorded and sometimes someone even listens to the recording. 
 I think this is style of knowledge transfers should be avoided. Here are my reasons:
@@ -24,7 +24,7 @@ you might end up with a large amount of these meetings. This can quickly become 
 especially if you often have new team members and/or new blocks of knowledge to share.
 
 #### It Usually Comes at the Wrong Time
-Knowledge transfers are often done in advance. Team members are informed about something which they might require
+Knowledge transfer meetings are often done in advance. Team members are informed about something which they might require
 in the future but it is unclear when (or if). This is a problem as the transferred knowledge might already be
 (partially) forgotten until it is needed.
 
@@ -34,11 +34,11 @@ actually be too shallow to help in dealing with a customer issue or when extendi
 in the future. This could be fixed by spending more time on the session, but this makes them even more expensive.
 
 #### It Addresses the Wrong Problem
-A knowledge transfer intends to spread some information within the team. Usually, this is about obscure code
+A knowledge transfer meeting intends to spread some information within the team. Usually, this is about obscure code
 areas or complex functionalities of the product. The core assumption behind this is that the rest of team is
 either unable to get an insight into this part of the code/product by themselves or that it would take an
 unreasonable amount of time. From my point of view this is the core issue. 
-Every part of your code/product should be easy to understand for a competent developer. You should have enough
+Every part of your code and/or product should be easy to understand for a competent developer. You should have enough
 automated tests and product specification at hand that it is possible to make changes to the code and that bugs
 can be separated from features. This good practice eliminates the need for most knowledge transfer sessions by 
 itself and pays off in other areas as well.
@@ -60,11 +60,11 @@ its creator's time while a pointless meeting wastes everybody's. As the entry ca
 problem to quickly revisit it at some later point in time. While this is also true for a recorded meeting, 
 it is much easier to find the information you are looking for in a wikipage.
 
-I have mentioned above that knowledge transfers are often too shallow. Wiki entries can be as detailed as the 
+I have mentioned above that knowledge transfer meetings are often too shallow. Wiki entries can be as detailed as the 
 creator wants them to be, but they probably shouldn't be too long. The key difference between the
 wiki and the meeting is that the wiki only aims to give you the information you cannot get in the code. The
 code is the true source of information and it can answer any of your questions. So, using wiki here does not
-exactly solve the shallowness problem, as much as it just avoids it. 
+exactly solve the shallowness problem, it just avoids it. 
 
 That's all I have to say on the subject. I hope you can see my point even if you may not agree. If you know a 
 different way to do knowledge transfers which solves the problems I have mentioned, please let me know.
