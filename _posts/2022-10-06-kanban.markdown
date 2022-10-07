@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Use Kanban instead of Scrum"
+description: "Scrum causes a lot of problems. This post describes why Kanban might be the better choice for many teams and how to get started."
 date:   2022-10-06 15:26:01 +0100
-categories: software design
+categories: processes
 ---
 [Scrum](https://scrumguides.org/index.html) has grown very popular in the software industry over the
 last decade, taking over from the unloved waterfall development model as the de facto standard.
