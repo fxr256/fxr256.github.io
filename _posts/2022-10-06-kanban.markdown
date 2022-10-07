@@ -1,0 +1,108 @@
+---
+layout: post
+title:  "Use Kanban instead of Scrum"
+date:   2022-10-06 15:26:01 +0100
+categories: software design
+---
+[Scrum](https://scrumguides.org/index.html) has grown very popular in the software industry over the
+last decade, taking over from the unloved waterfall development model as the de facto standard.
+While I cannot comment on whether Scrum works better than
+waterfall, due to having never worked in a waterfall project, I can say that my experiences
+with Scrum have been mixed at best. I've previously written
+about [signs that your Scrum is broken](https://thinkingsideways.net/processes/2019/12/15/how-not-to-do-scrum.html)
+and my opinion of Scrum has worsened since then. I now consider Scrum actively harmful when taken
+seriously. While I'm sure that it works well for some people, my experience is that it actively
+creates problems, for example:
+
+1. Artificial splitting of development work which doesn't fit in a Sprint
+2. Discussions about what is and what isn't proper Scrum
+3. Rigid accordance to the Scrum rules, even though they may make no sense in your context.
+4. Promoting the idea via the Sprint Goal that the full team works on one feature together even
+   though this is impossible in most circumstances
+5. Promoting the idea that all developers can work on anything
+6. Creating extra meetings like the Daily Scrum
+7. Creating extra roles like the Scrum Master
+
+All these problems are created by Scrum. It doesn't matter whether
+something is finished within a Sprint if nobody is actively waiting for the item and if you don't
+deploy at the end of the Sprint. So why bother splitting an oversized item and wasting time
+with the discussion about it? Sadly, Scrum is very rigid and discourages you from
+actively thinking about what process is right for your team. There is no one size fits all solution
+for software development,
+and we should stop pretending that Scrum can deliver it. I know that some readers will now raise
+the objection that all my points are only relevant if Scrum is done incorrectly. I agree, but so far
+I've never seen "proper" Scrum in the wild. If Scrum is so difficult to implement that a lot of
+teams
+cannot do it, whose fault is that? For me, it is Scrum's fault.
+
+So, what should you do instead? My recommendation is to optimize the way you currently work. This is
+the core idea behind [Kanban](https://en.wikipedia.org/wiki/Kanban_(development)). Kanban is based
+on just two core ideas:
+
+1. Visualize flow
+2. Limit work in progress
+
+That's it. In contrast to something like Scrum it isn't a fully fleshed out process, but rather a
+meta-process which you apply to your existing process. Kanban focuses on optimizing the flow of work
+items through your process. Over time, it will show you how to optimize this flow. So, how do you
+get
+started with Kanban? First, you model the current way you work into a Kanban board. The
+board should show the flow of items through your team and capture how you **actually** work - in
+contrast to how
+you're supposed to work or how you tell your manager that you work. You'll use the board to
+visualize the flow of your work. Visualization will show the current state, help identify problems
+and show any
+bottlenecks. The board can be either physical if you're in an office environment or virtual. As
+every team works differently, no two Kanban boards will look exactly alike. There is no
+right or wrong way to do Kanban, there is just **your** way. Let's take a look at an example Kanban
+board:
+
+![kanban board](/images/kanbanboard.png)
+
+The board visualizes the development process of a software development team. Items move through the
+board over time until they reach the final stage. Items can enter the board at either the "Ready for
+Development", "In Testing" or "Clarification" stage:
+
+- Well-understood Items start in the "Ready for Development" stage.
+- Unclear items either start directly in the "Clarification" stage or get moved there once it
+  becomes evident that they need further work.
+- Manual testing items start in the "In Testing" stage.
+
+Note, that the "Ready for Development" stage is a queue which serves as our work
+stash until the next planning meeting. It gets replenished during the planning meeting.
+Each of the stages has a work in progress limit. It
+defines the maximum number of items which can be in each stage. The purpose behind these limits is
+to prevent the bottlenecks of your process from being overloaded. The limits will change
+over time
+as your process also changes over time. You can pick them at random just to get started. The correct
+numbers will reveal themselves over time. Once you have both the board and the limits in
+place, you only need to slightly change the focus of your Daily Scrum meeting and your planning
+meeting.
+
+In the Daily Scrum, instead of having a round-robin, you'll now look at the Kanban board and
+discuss any important update on the items. If someone hasn't worked on any item, he keeps quiet in
+the meeting. However, if this happens often, it raises the question of what exactly he is doing and
+whether this should be visible on the Kanban board. Besides the Daily Scrum, the planning meeting
+also
+changes. Rather than looking at the duration of your Sprint and your capacity to determine the
+amount of work you want to do,
+you now look at the number of slots in your work queues. You fill up all open slots so that you
+have a supply of work which will carry you until your next planning meeting. This is a
+self-balancing process: If you get a lot done, you can fill many slots and vice versa. It also
+doesn't matter whether items are completed within a Sprint: They just stay
+in the queue and block a slot. And that's already everything you need to do to get started with
+Kanban. If you want to know more, I highly recommend the
+book ["Kanban: Successful Evolutionary Change for
+Your Technology Business" by David J. Anderson](https://www.goodreads.com/en/book/show/8086552-kanban)
+.
+
+So how exactly does Kanban address the problems outlined above? Well, it gets rid of the
+requirement
+that items need to fit in any Sprint which fixes the first problem. It also gets rid
+of any discussions on whether you do proper Scrum and allows you to only follow rules which make
+sense
+in your context. Furthermore, it allows you to split the work within your team in whatever way you
+want,
+and it requires no special roles like a Scrum Master. Last, it will make your planning easier
+and help you raise your throughput over time. As you can see, there are a lot of upsides to
+introducing Kanban, so give it a try if you're unhappy with your Scrum.
