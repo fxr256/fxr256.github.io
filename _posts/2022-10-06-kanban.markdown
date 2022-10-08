@@ -10,7 +10,7 @@ last decade, taking over from the unloved waterfall development model as the de 
 While I cannot comment on whether Scrum works better than
 waterfall, due to having never worked in a waterfall project, I can say that my experiences
 with Scrum have been mixed at best. I've previously written
-about [signs that your Scrum is broken](https://thinkingsideways.net/processes/2019/12/15/how-not-to-do-scrum.html)
+about [signs that your Scrum is broken](https://thinkingsideways.net/processes/how-not-to-do-scrum.html)
 and my opinion of Scrum has worsened since then. I now consider Scrum actively harmful when taken
 seriously. While I'm sure that it works well for some people, my experience is that it actively
 creates problems, for example:
