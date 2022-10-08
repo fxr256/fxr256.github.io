@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "The Trouble with Knowledge Transfer Meetings"
+description: "This blog post describes why knowledge transfer meetings are inefficient and what to do instead."
 date:   2019-01-03 18:00:01 +0100
-categories: working culture
+categories: processes
 ---
 Have you ever done a knowledge transfer meeting? If so, how do you feel about it now?
 Do you think it was helpful, that you achieved something? Or do you consider it
