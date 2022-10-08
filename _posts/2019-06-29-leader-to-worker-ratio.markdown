@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "The Leader-to-Worker-Ratio"
+description: "This blog post suggests categorizing people within a company into leaders and workers. It is important to keep these two groups in the right ratio."
 date:   2019-06-29 17:58:01 +0100
-categories: testing
+categories: people
 ---
 During my work for a big software company, I have noticed that a lot of people there don't exactly work. I assume that a similar pattern can be observed in other big companies and that smaller companies are less affected. From my point of view work in the context of software development is limited to four activities: 
 - Writing Code
