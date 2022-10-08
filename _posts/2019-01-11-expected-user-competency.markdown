@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What's Your Expected User Competency?"
+description: "This blog post introduces the concept of the expected user competency which you should consider in your software and UI design."
 date:   2019-01-11 22:35:01 +0100
 categories: software design
 ---
