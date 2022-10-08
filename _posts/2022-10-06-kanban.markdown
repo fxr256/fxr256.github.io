@@ -64,7 +64,7 @@ The board visualizes the development process of a software development team. Ite
 board over time until they reach the final stage. Items can enter the board at either the "Ready for
 Development", "In Testing" or "Clarification" stage:
 
-- Well-understood Items start in the "Ready for Development" stage.
+- Well-understood items start in the "Ready for Development" stage.
 - Unclear items either start directly in the "Clarification" stage or get moved there once it
   becomes evident that they need further work.
 - Manual testing items start in the "In Testing" stage.
