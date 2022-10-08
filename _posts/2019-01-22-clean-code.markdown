@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Clean Code in Real Life"
+description: "This blog post contains multiple examples of real life code and describes how you can transform the ugly code into clean code."
 date:   2019-01-22 18:00:01 +0100
-categories: clean code
+categories: code
 ---
 Let's talk about clean code. You've probably heard about it at some point during the last years and most software engineers will agree that clean code is important. But what exactly is clean code? Michael Feathers defines it as follows:
 > Clean Code always looks like it was written by someone who cares.
