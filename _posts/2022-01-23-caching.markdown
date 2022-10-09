@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Avoid Caching"
+description: "This blog post explains why caching is a very dangerous technique which is often overused in software."
 date:   2022-01-23 17:26:01 +0100
 categories: software design
 ---

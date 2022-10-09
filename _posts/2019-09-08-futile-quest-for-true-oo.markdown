@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Futile Quest for True Object-Orientation"
+description: "This blog post urges the reader to give up the search for true object-orientation as it is an illusion. Instead, developers should focus on creating value."
 date:   2019-09-08 17:58:01 +0100
 categories: software design
 ---

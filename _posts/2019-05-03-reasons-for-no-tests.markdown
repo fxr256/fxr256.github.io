@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Why Your Developers Don't Write Automated Tests"
+description: "This blog post explains why the lack of knowledge, time and/or interest are the reason developers don't write automated tests."
 date:   2019-05-03 17:13:01 +0100
 categories: testing
 ---

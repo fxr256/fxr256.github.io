@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Look Upstream For The Cause Of Your Problems"
+description: "This blog post urges the reader to look upstream for any recurring problems they encounter in the their daily work. The problem probably starts there."
 date:   2019-10-07 20:43:01 +0100
 categories: processes
 ---

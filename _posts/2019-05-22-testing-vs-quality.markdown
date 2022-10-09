@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Testing vs. Quality"
+description: "This blog post explains that testing doesn't raise quality and explains how to actually improve quality."
 date:   2019-05-22 17:58:01 +0100
 categories: testing
 ---

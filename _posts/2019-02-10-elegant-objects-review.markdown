@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Book Review: Elegant Objects by Yegor Bugayenko"
+description: "This blog post contains a review of Yegor Bugayenko's book Elegant Objects."
 date:   2019-02-10 16:50:34 +0100
 categories: reviews
 ---

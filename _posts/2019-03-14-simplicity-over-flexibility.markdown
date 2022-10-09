@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Choose Simple Solutions Over Flexible Ones"
+description: "This blog post explains why you should strive to keep your code simple. It explains what 'simple' means in this context and includes a real life code example."
 date:   2019-03-24 16:47:01 +0100
 categories: code
 ---

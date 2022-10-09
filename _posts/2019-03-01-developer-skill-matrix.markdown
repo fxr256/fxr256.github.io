@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Developer Skill Matrix"
+description: "This blog post introduces the idea of categorizing developers into four different categories via their output and quality."
 date:   2019-03-01 15:07:44 +0100
 categories: people
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Seven Signs That Something Is Wrong With Your Scrum"
+description: "This blog post list seven signs that your Scrum isn't working correctly."
 date:   2019-12-15 17:26:01 +0100
 categories: processes
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Power of Incentives"
+description: "This blog post talks about the incentives in the contenxt of software development. Incentives are very powerful and hence must be managed carefully."
 date:   2020-05-01 17:26:01 +0100
 categories: processes
 ---

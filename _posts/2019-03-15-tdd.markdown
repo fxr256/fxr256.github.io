@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "It Doesn't Matter When You Write Your Tests"
+description: "This blog post explains why it doesn't really matter whether you write your tests before or after the productive code."
 date:   2019-03-15 17:13:01 +0100
 categories: testing
 ---
