@@ -4,7 +4,7 @@ title:  "The Futile Quest for True Object-Orientation"
 description: "This blog post urges the reader to give up the search for true object-orientation as it is an illusion. Instead, developers should focus on creating value."
 date:   2019-09-08 17:58:01 +0100
 categories: software design
-redirect_from: /software/design/2019/09/08/futile-quest-for-true-oo.htm
+redirect_from: /software/design/2019/09/08/futile-quest-for-true-oo
 ---
 The idea of object-oriented software originated in the 1960s and rose to dominance in the 1990s. In 2019, most main-stream languages are at least somewhat object-oriented. Despite this obvious success, the paradigm is still somewhat nebulous if you think about it in detail. What does it really mean to write object-oriented code? A multi-paradigm language like Java claims to be object-oriented, but a lot of Java code out in the wild looks quite procedural. Is there any meaningful difference between a Java bean and a simple data structure like a C struct (except that the Java bean requires more lines of code)? What needs to be done to finally make software engineering reach the next level, where we can write bug-free, maintainable code on time and on budget? There was a lot of hype around object-orientation (OO) in the 90s and clearly the paradigm hasn't lived up to the hype: Today's code is still mostly not reusable and strong modularization isn't widespread either. And here is where the quest for true OO comes in.
 
