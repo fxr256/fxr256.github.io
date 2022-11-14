@@ -4,6 +4,7 @@ title:  "The Developer Skill Matrix"
 description: "This blog post introduces the idea of categorizing developers into four different categories via their output and quality."
 date:   2019-03-01 15:07:44 +0100
 categories: people
+redirect_from: /people/2019/03/01/developer-skill-matrix
 ---
 It seems rather obvious that some developers are much better at their job than others. After all, we know that some football players are better than others and we also know that some doctors are better than others, so why shouldn't this be true for developers as well? In fact, there are [studies](https://cacm.acm.org/blogs/blog-cacm/180512-is-there-a-10x-gap-between-best-and-average-programmers-and-how-did-it-get-there/fulltext) backing this claim. Furthermore, this variance in skill is known in the industry. For example, [Alan Eustace](https://en.wikipedia.org/wiki/Alan_Eustace) claimed in an [interview](https://www.wsj.com/articles/SB113271436430704916) that one top-notch engineer is worth "300 times or more than the average". He also said that he'd rather lose an entire incoming class of engineering graduates than one exceptional technologist. According to him, many Google services, such as Gmail and Google News, were started by a single person.
 

@@ -4,6 +4,7 @@ title:  "What's Your Expected User Competency?"
 description: "This blog post introduces the concept of the expected user competency which you should consider in your software and UI design."
 date:   2019-01-11 22:35:01 +0100
 categories: software design
+redirect_from: /software/design/2019/01/11/expected-user-competency
 ---
 During the years of my work in software development, I have noticed that each software needs a certain level of
 competency to be used properly. Some pieces of software are extremely easy to use, usually because the problem they

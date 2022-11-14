@@ -4,6 +4,7 @@ title:  "Sane Programming"
 description: "This blog post describes my approach to programming which was shaped in over a decade as a professional developer."
 date:   2022-06-07 17:26:01 +0100
 categories: code
+redirect_from: /software/design/2022/06/07/sane-programming
 ---
 Programmers have argued about the best way to program for a long time, maybe since the very beginning of the craft. There is an abundance of opinions on the subject, so I haven't been in a rush to add mine. However, I recently thought about what I have learned during the past decade of professional software development and decided to write it down. The following thoughts are focused on object oriented (OO) programming, but at least partially apply to imperative and functional programming as well. As I couldn't come up with a fancy name for my style of programming, I'm just going to call it "sane programming". 
 

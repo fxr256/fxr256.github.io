@@ -4,6 +4,7 @@ title:  "Testing vs. Quality"
 description: "This blog post explains that testing doesn't raise quality and explains how to actually improve quality."
 date:   2019-05-22 17:58:01 +0100
 categories: testing
+redirect_from: /testing/2019/05/22/testing-vs-quality
 ---
 Is there a connection between testing and quality? A lot of people think that the cause of low-quality software is insufficient testing. The truth is very different:
 

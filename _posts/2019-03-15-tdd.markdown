@@ -4,6 +4,7 @@ title:  "It Doesn't Matter When You Write Your Tests"
 description: "This blog post explains why it doesn't really matter whether you write your tests before or after the productive code."
 date:   2019-03-15 17:13:01 +0100
 categories: testing
+redirect_from: /testing/2019/03/15/tdd
 ---
 [Test driven development](https://en.wikipedia.org/wiki/Test-driven_development) (TDD) is one of the core practices
 of [agile software development](https://en.wikipedia.org/wiki/Agile_software_development). When doing TDD you write an

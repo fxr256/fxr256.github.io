@@ -4,6 +4,7 @@ title:  "The Power of Incentives"
 description: "This blog post talks about the incentives in the context of software development. Incentives are very powerful and hence must be managed carefully."
 date:   2020-05-01 17:26:01 +0100
 categories: processes
+redirect_from: /processes/2020/05/01/incentives
 ---
 Working in a corporation exposes you to a plethora of business processes. At their heart, these
 processes are supposed to guide you into correct and appropriate behavior. They incentivize certain

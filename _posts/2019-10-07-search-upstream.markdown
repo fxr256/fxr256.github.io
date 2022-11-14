@@ -4,6 +4,7 @@ title:  "Look Upstream For The Cause Of Your Problems"
 description: "This blog post urges the reader to look upstream for any recurring problems they encounter in the their daily work. The problem probably starts there."
 date:   2019-10-07 20:43:01 +0100
 categories: processes
+redirect_from: /processes/2019/10/07/search-upstream
 ---
 There are many ways to organize software development. Today, the infamous [waterfall model](https://en.wikipedia.org/wiki/Waterfall_model) has mostly been replaced by some flavor of [agile development](https://en.wikipedia.org/wiki/Agile_software_development). However, this change hasn't been a panacea. Still, software developers are plagued by lack of time, unclear requirements, barely legible legacy code and processes which only get in the way. How can we find the root cause for these problems?
 

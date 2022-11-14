@@ -4,6 +4,7 @@ title:  "Why Your Developers Don't Write Automated Tests"
 description: "This blog post explains why the lack of knowledge, time and/or interest are the reason developers don't write automated tests."
 date:   2019-05-03 17:13:01 +0100
 categories: testing
+redirect_from: /testing/2019/05/03/reasons-for-no-tests
 ---
 How much of your code is covered by automated tests? Chances are, the percentage is not as high as you would like it to be. I have worked in code-bases with a high coverage as well as in ones with barely any tests at all. I vastly prefer the former as a good automated test suite speeds up development and makes it much easier to determine whether the current state of the code is ready for production. The advantages of automated testing are well-known in the industry, but the practice has not yet reached the ubiquity one might expect given its advantages. In fact, from my experience, teams with a high number of automated tests are the exception rather than the norm. This problem is caused by the lack of three things:
 

@@ -4,6 +4,7 @@ title:  "Book Review: Elegant Objects by Yegor Bugayenko"
 description: "This blog post contains a review of Yegor Bugayenko's book Elegant Objects."
 date:   2019-02-10 16:50:34 +0100
 categories: reviews
+redirect_from: /reviews/2019/02/10/elegant-objects-review
 ---
 I like to read about software development. As you are reading a blog about this topic right now, chances are that you share the same hobby. However, there is so much material out there that it is hard to decide what to read. Today, I want to make this decision a bit easier by recommending a book: [*Elegant Objects*](https://www.goodreads.com/book/show/29326350-elegant-objects) by Yegor Bugayenko. You might be familiar with Yegor as he is a [blogger](https://www.yegor256.com/) himself. He is known for his strong and often polarizing opinions. One recurring theme of his blog is object orientation, more precisely, how to do it correctly. Yegor feels that how object orientation is done today is not how it should be done. He feels that [Alan Key's](https://en.wikipedia.org/wiki/Alan_Kay) vision wasn't achieved. So, he wrote a book about how to properly design objects. The book consists of 23 loosely related practical recommendations. Yegor has embedded links to related posts on his blog into the book. To give you a better impression of his ideas, I will link to these posts as well when appropriate.
 

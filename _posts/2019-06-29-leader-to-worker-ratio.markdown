@@ -4,6 +4,7 @@ title:  "The Leader-to-Worker-Ratio"
 description: "This blog post suggests categorizing people within a company into leaders and workers. It is important to keep these two groups in the right ratio."
 date:   2019-06-29 17:58:01 +0100
 categories: people
+redirect_from: /testing/2019/06/29/leader-to-worker-ratio
 ---
 I think that a lot of clarity can be gained by distinguishing between *leaders* and *workers* in the context of software development. The *workers*: 
 - Write code

@@ -4,6 +4,7 @@ title:  "Seven Signs That Something Is Wrong With Your Scrum"
 description: "This blog post list seven signs that your Scrum isn't working correctly."
 date:   2019-12-15 17:26:01 +0100
 categories: processes
+redirect_from: /processes/2019/12/15/how-not-to-do-scrum
 ---
 During the last few years, I've worked in teams following the [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) agile process framework. While I'm a strong opponent of [waterfall software development](https://en.wikipedia.org/wiki/Waterfall_model) and everything with the same mindset (e.g. big software design upfront), I'm not a fan of Scrum either. To be more precise, I think that Scrum can work very well in certain circumstances. However, it is not a panacea. Sadly, many people are not aware of Scrum's prerequisites and hence have limited success with it. In this article, I want to list seven signs that your Scrum isn't working properly.
 

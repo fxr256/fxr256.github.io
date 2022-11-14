@@ -4,6 +4,7 @@ title:  "Stop the Decline First"
 description: "This blog post describes why it is important to stop further software quality decline via improved processes and gives some ideas on how to do it."
 date:   2021-05-02 17:26:01 +0100
 categories: processes
+redirect_from: /software/design/2021/05/02/stop-the-decline
 ---
 Occasionally, things go horribly wrong in software development and we find ourselves in a code base where changing code has become a pain as every change breaks seemingly unrelated functionality and the code itself resembles an experimental art project. As a result, we spend most of our time fixing defects, sometimes even defects which we already fixed some months ago. We know that we have to do something, as the problem is getting worse with every line of code and if we don't turn the trend around, we'll end up in a software development swamp where velocity approaches zero and people hunger for a complete rewrite of the code base. 
 

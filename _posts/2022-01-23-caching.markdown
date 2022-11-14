@@ -4,6 +4,7 @@ title:  "Avoid Caching"
 description: "This blog post explains why caching is a very dangerous technique which is often overused in software."
 date:   2022-01-23 17:26:01 +0100
 categories: software design
+redirect_from: /software/design/2022/01/23/caching
 ---
 After you've developed software professionally for a while, you notice certain repeating patterns: Some solutions work repeatedly while others repeatedly cause errors. One very popular, but dangerous technique is **caching**. Naturally, caching is necessary in certain situations to achieve satisfactory performance. However, it can also cause a lot of problems when used poorly. Per definition cached data is potentially outdated data as it isn't read / calculated every time it is queried. This can lead to hard to understand bugs if the cache is not invalidated when the data is changed. However, deciding when to invalidate a cache is [one of the two hard things in software engineering](https://www.martinfowler.com/bliki/TwoHardThings.html). As a result, bugs caused by outdated cache data are quite common. 
 
