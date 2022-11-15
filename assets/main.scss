@@ -83,4 +83,8 @@ code {
   padding: 1px !important;  
 }
 
+.site-title {
+  font-size: x-large !important;
+}
+
 @import "{{ site.theme }}";
