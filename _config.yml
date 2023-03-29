@@ -24,7 +24,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thinkingsideways.net" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:title:output_ext
 twitter_username: fxr256
-github_username:  fxr256
+linkedin_username: fxr256
 
 # Build settings
 markdown: kramdown
