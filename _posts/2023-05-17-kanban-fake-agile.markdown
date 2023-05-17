@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Use Kanban in Fake Agile Companies"
+description: "Fake agile companies are unsuited for agile software development techniques like Scrum. Kanban is a better choice for them as it requires less empowerment."
+date:   2023-05-17 08:26:01 +0100
+categories: processes
+---
+Recently, I wrote about [fake agile companies](https://thinkingsideways.net/processes/fake-agile-companies.html). These companies are agile in name only and are held back by their unwillingness to [empower their employees](https://thinkingsideways.net/processes/subsidiarity.html). Even though these companies might officially use agile methodologies like Scrum, their implementation of these methods will be very different from the standard and will probably resemble the infamous [waterfall development model](https://en.wikipedia.org/wiki/Waterfall_model). This deviation from the agile standard is no surprise because empowering the teams is at the heart of every agile method. In fact, the [central Scrum guide](https://scrumguides.org/index.html) stresses the importance of empowerment in at least three places (emphasis  mine):
+> 1. The Scrum Team is responsible for all product-related activities (...). They are structured and **empowered** by the organization to manage their own work.
+> 2. Scrum Team members respect each other to be capable, independent people, and **are respected as such by the people with whom they work.** 
+> 3. For Product Owners to succeed, **the entire organization must respect their decisions.** 
+
+Scrum will not work properly in a fake agile company. The same is true for other agile methods, but I'll use Scrum as a concrete example for the rest of this post as it is the most popular method. Given that a change in company culture is required for a fake agile company to become truly agile, it is unlikely that Scrum will become a better fit for such a company in the foreseeable future. Hence, my recommendation is to use Kanban when working in a fake agile company. I've already written a post on why I recommend [Kanban over Scrum in general](https://thinkingsideways.net/processes/kanban.html), but this topic is worth reexploring in the context of fake agile companies. Kanban is ideally suited for fake agile companies because it only requires the team to do two things:
+1. Visualize flow
+2. Limit work in progress
+
+That's it. In contrast to Scrum, Kanban isn't a fully fleshed out process, but rather a meta-process which you apply to your existing process. Kanban focuses on optimizing the flow of work items through your process. So, it optimizes the way you currently work without requiring a lot of upfront changes. This allows you to introduce Kanban in your team without impacting any other part of your organization which is important in fake agile companies where decisions are usually made in a top-down fashion and teams are disempowered. Kanban will help you get more things done without any buy-in from management and without adding more administrative overhead. 
+
+While methods like Scrum require empowered teams to work, Kanban can work in any company. After all, it originated in the automotive industry which is completely unrelated to software and not exactly known for its highly empowered employees. So, no matter what exact process you're currently using, introducing Kanban will help you optimize it. I've covered how to get started [here](https://thinkingsideways.net/processes/kanban.html). Kanban will continuously reveal what further optimizations you can make to your process. For example, as you're working in a fake agile company, you will probably see very little impact from your retrospectives. Hence, you might decide to scrap these meetings completely. Over time, you will deviate more and more from your starting point as you continue to identify improvements. You'll end up with a continuously adapting process custom-tailored for your team.
+
+### Conclusion
+I consider switching to Kanban as the best course of action when working in a fake agile company because it has a high chance to succeed. Turning a fake agile company into an actually agile one is a tremendously difficult task which requires buy-in from a lot of powerful stakeholders. Even just doing textbook Scrum in your team will be very hard in such an environment. Hence, I think it's pointless to even try to do it. Instead, you should just accept that this is the way your company works and use Kanban to find the optimal process for your team.
