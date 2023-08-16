@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Friction Management"
+description: "Interpersonal problems can cause a lot of friction at work. Good managemers will minimized friction so that only necessary friction exists."
+date:   2023-08-13 17:26:01 +0100
+categories: people
+---
+In my [last article](https://thinkingsideways.net/people/people-problems.html), I talked about people problems in software development and why they are so important. This time I want to continue this discussion by talking about friction. Friction describes any kind of interpersonal disagreement. Friction can be productive if it is used to generate better ideas. For example, if two developers disagree about how a certain feature should be built, they may come up with a better idea as a result of their discussion then what either of them had originally in mind. That is *productive* friction. Productive friction can lead to better ideas, but it requires that the participants: 
++ Stick to the topic at hand rather than getting personal.
++ Are qualified (ideally on the same level).
++ Have somewhat compatible personalities and working style.
+
+Sadly, there is a lot of unproductive friction in the workplace, i.e., friction about topics which aren't all that important. This kind of friction only has downsides. It distracts people from productive work and causes resentment if arguments get too heated. Unproductive friction needs to be minimized. Here are some examples of unproductive friction:
++ Arguing about seating in the office
++ Arguing about whether the whole team has to do test-driven development
++ Arguing about how many (if any) integration tests should be written for a new feature
++ Arguing about who get's to participate in a meeting
++ Arguing about whether all team members should use the same setup for their local development environments
+
+In the grand scheme of things the answer to any of these questions doesn't matter. Discussing them can be beneficial if a quick decision can be reached, but any prolonged discussions will have more downsides then upsides. This kind of unproductive friction can be highly corrosive if there are lingering personal conflicts in the team and/or if you have team members who just like to argue with others. As a result, this kind of friction needs to be minimized.
+
+Both productive and unproductive friction needs to be managed. We can keep *productive* friction productive by making sure that only suitable candidates are part of the discussion. In other words, we need to empower these key resources to make decisions on their own even if it means not hearing the opinion of the rest of the team. This might sound drastic to some readers, but the alternative is that everyone will be part of the discussion which will lead to bad results as it will draw out the discussion. Too minimize *unproductive* friction we can empower team members to work however works best for them. This should avoid many discussion where alignment in the team isn't actually necessary. Also, we should time box every discussion if we assume that it's unproductive. After the alloted time is up, we either have to make a decision or decide not to make one. Making the wrong decision is preferable to revisting the same topics again and again because no common position can be found in the development team. Last, as managers, we need to make sure that we don't create an unproductive friction ourselves. We should let the team work as it sees fit even if it might clash with our own preference as long as there is no clear problem. For example, let's assume that we have on-call-duty on weekends and only a small subset of team volunteers for this task. We might be tempted to force the rest of the team to participate as well to split the work more fairly, but this can cause unproductive friction if the team as a whole is fine with the status quo. The volunteers don't seem to be bothered by the  on-call-duty (or they just like the money), so why rock the boat? As long as no one in the teams ask us to do something, we should let things go to minimize friction.
+
+### Conclusion
+Friction needs to be managed. Good managers will keep productive fraction productive and minimize uproductive friction. Individual empowerment is key to minimize friction. Often, it is not important that everyone in the team does things the same way.
+
+If you liked this blog post, please share it with somebody.
