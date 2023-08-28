@@ -60,4 +60,4 @@ audience is highly skilled, keeping the EUC low will keep you prepared for a big
 will help you find the simplest possible solution for the problem. This is especially important when designing
 GUIs and APIs. An API which requires a lot of knowledge about your internal data model is fine for internal usage, 
 but will be hard to use for any external users (and will probably leak details which you don't want to expose). So,
-the next time you have a moment, reflect on your EUC and see whether you are happy with it.
+the next time you have a moment, reflect on your EUC and see whether you are happy with it. If you liked this blog post, please share it with somebody. You can also follow me on [Twitter/X](https://twitter.com/fxr256). 

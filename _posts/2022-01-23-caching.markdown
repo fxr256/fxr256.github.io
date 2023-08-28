@@ -29,4 +29,4 @@ To sum up, we should follow these guidelines to get the maximum value out of cac
 7. Periodically evict data in caches with a high cache level
 8. Make it easy to refresh any cache with a long time to live manually in case any problems occur. 
 
-If you liked this blog post, please share it with someone.
+If you liked this blog post, please share it with someone. You can also follow me on [Twitter/X](https://twitter.com/fxr256).

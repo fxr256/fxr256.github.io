@@ -16,4 +16,4 @@ But how do we know that it is actually a people problem? Isn't it more likely th
 ### Conclusion
 Most hard problems in software development are people problems. We need to assume that a problem is a people problem by default and actively try to handle it. Trying to solve a people problem with a process change doesn't work.
 
-If you liked this blog post, please share it with somebody.
+If you liked this blog post, please share it with somebody. You can also follow me on [Twitter/X](https://twitter.com/fxr256).

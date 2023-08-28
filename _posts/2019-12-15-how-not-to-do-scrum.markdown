@@ -35,4 +35,4 @@ Sign number six: You are frequently blocked due to external factors. There are m
 
 Sign number seven: Your backlog refinement process is very heavy weight. Backlog refinement means transforming the raw, coarse-grained "epics" in your backlog into smaller work packages which can get tackled in a Sprint. Some teams like to do this with the full team present. From my point of view, this is not a good idea as it is extremely expensive and often very unfocused. Instead, the refinement should be done in small groups of two to three people. If another teammate is interested in the details, he should be able to get them from the tasks themselves. This negates the need for any preemptive knowledge transfers.
 
-That concludes the list of signs I've seen in the past. Hopefully, this list helps you pinpoint some problems in your Scrum and will inspire you to address them.
+That concludes the list of signs I've seen in the past. Hopefully, this list helps you pinpoint some problems in your Scrum and will inspire you to address them. If you liked this blog post, please share it with somebody. You can also follow me on [Twitter/X](https://twitter.com/fxr256). 

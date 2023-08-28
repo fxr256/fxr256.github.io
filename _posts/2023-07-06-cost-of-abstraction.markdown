@@ -29,6 +29,4 @@ This API is far closer to the actual problem we're trying to solve. We can clear
 ### Conclusion
 Abstractions are useful, but can be overdone. We have a baseline level of abstraction that we're used to and should try to stay on this level. Adding further levels of abstraction should only be done if it adds significant value as learning the new abstract concepts requires effort.
 
-If you liked this blog post, please share it with somebody.
-
-
+If you liked this blog post, please share it with somebody. You can also follow me on [Twitter/X](https://twitter.com/fxr256).

@@ -69,4 +69,4 @@ code is the true source of information and it can answer any of your questions. 
 exactly solve the shallowness problem, it just avoids it. 
 
 That's all I have to say on the subject. I hope you can see my point even if you may not agree. If you know a 
-different way to do knowledge transfers which solves the problems I have mentioned, please let me know.
+different way to do knowledge transfers which solves the problems I have mentioned, please let me know. If you liked this blog post, please share it with somebody. You can also follow me on [Twitter/X](https://twitter.com/fxr256). 

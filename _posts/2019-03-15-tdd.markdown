@@ -48,4 +48,4 @@ All in all, I don't believe in using TDD all the time. Developers should decide 
 first or last. Being dogmatic about TDD is not helpful as it causes unnecessary resentment. Furthermore, it is
 misleading as TDD is not always appropriate. As long as tests are written before a fix or feature is declared as "done",
 I don't care about the exact point in time. Nevertheless, I still recommend TDD for inexperienced developers and when
-time is pressing.
+time is pressing. If you liked this blog post, please share it with somebody. You can also follow me on [Twitter/X](https://twitter.com/fxr256). 

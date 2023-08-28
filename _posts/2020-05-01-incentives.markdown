@@ -123,4 +123,4 @@ on empowerment if we deliver high quality, maintainable software and keep our cu
 keep the quality high unless you want more complex processes in your life.
 
 That completes our look at incentives. I hope you enjoyed it. If you did, please share it with
-somebody.
+somebody. You can also follow me on [Twitter/X](https://twitter.com/fxr256). 

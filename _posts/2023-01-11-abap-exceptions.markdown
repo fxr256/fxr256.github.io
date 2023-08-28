@@ -109,4 +109,4 @@ As we've seen, there a quite a few pitfalls when defining exceptions in ABAP. To
 3. Only catch an exception if you can handle it in a meaningful way.
 4. Make sure that you don't mask any errors when catching an exception.
 
-If you liked this blog post, please share it with someone.
+If you liked this blog post, please share it with someone. You can also follow me on [Twitter/X](https://twitter.com/fxr256).

@@ -31,4 +31,4 @@ In many organizations you have to use an issue tracker. If that is the case, it 
 ### Conclusion
 As you can see, there are a lot of reasons why your issue tracker should be your primary communication tool. However, you can only enjoy these benefits if team members use the tracker in a productive way: Issues should describe clearly what they are about including the context, comments should be as clear as possible and all issues should be in the correct state. Without diligent usage of the issue tracker, people will fall back to email as the default communication method even though it is inferior. 
 
-If you liked this blog post, please share it with somebody.
+If you liked this blog post, please share it with somebody. You can also follow me on [Twitter/X](https://twitter.com/fxr256).

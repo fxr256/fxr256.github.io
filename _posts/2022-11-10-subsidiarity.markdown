@@ -31,4 +31,4 @@ It is also important to note that the SP requires the leaders of the company to 
 
 It is noteworthy that the big hype around micro services during the last couple of years can also be seen as a drive to get the SP implemented via software architecture. After all, if every micro service is owned by an individual team, it is guaranteed that only this team will make the decisions. Obviously, there is more to micro services than that, but it is an interesting correlation nevertheless. 
 
-To sum up, the SP has proven itself for hundreds of years as a superior way to structure organizations. We should embrace it in software development as well. If you liked this blog post, please share it with somebody.
+To sum up, the SP has proven itself for hundreds of years as a superior way to structure organizations. We should embrace it in software development as well. If you liked this blog post, please share it with somebody. You can also follow me on [Twitter/X](https://twitter.com/fxr256).

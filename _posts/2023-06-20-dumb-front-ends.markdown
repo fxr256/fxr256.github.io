@@ -28,6 +28,4 @@ To keep the frontend thin, we'll need custom tailored APIs which we can build to
 Keeping the frontend thin allows us to spend most our [complexity budget](https://htmx.org/essays/complexity-budget/) on the backend. As the backend is the core of our application it should receive the most care to minimize complexity.
 
 ### Conclusion
-There are good reasons to use a thin frontend for in web development. When in doubt, we should put logic into the backend rather than in the frontend.
-
-
+There are good reasons to use a thin frontend for in web development. When in doubt, we should put logic into the backend rather than in the frontend. If you liked this blog post, please share it with somebody. You can also follow me on [Twitter/X](https://twitter.com/fxr256).

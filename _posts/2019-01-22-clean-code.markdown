@@ -111,4 +111,4 @@ private boolean isBalanceUnchanged(BigDecimal oldBalance, BigDecimal newBalance 
 }
 {% endhighlight %}
 
-It is important to remember that writing clean code is an iterative process. Newly written code is usually ugly. You clean it up after it runs by slowly refining it until you are satisfied with it. The same is true for existing code. Whenever you touch "old" code, you should strive to leave it in a better state afterwards. If you keep doing that, your codebase will become more and more clean over time. I hope these examples were helpful to you.
+It is important to remember that writing clean code is an iterative process. Newly written code is usually ugly. You clean it up after it runs by slowly refining it until you are satisfied with it. The same is true for existing code. Whenever you touch "old" code, you should strive to leave it in a better state afterwards. If you keep doing that, your codebase will become more and more clean over time. I hope these examples were helpful to you. If you liked this blog post, please share it with somebody. You can also follow me on [Twitter/X](https://twitter.com/fxr256).

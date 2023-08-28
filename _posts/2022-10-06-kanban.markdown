@@ -106,4 +106,4 @@ in your context. Furthermore, it allows you to split the work within your team i
 want,
 and it requires no special roles like a Scrum Master. Last, it will make your planning easier
 and help you raise your throughput over time. As you can see, there are a lot of upsides to
-introducing Kanban, so give it a try if you're unhappy with your Scrum.
+introducing Kanban, so give it a try if you're unhappy with your Scrum. If you liked this blog post, please share it with someone. You can also follow me on [Twitter/X](https://twitter.com/fxr256).
