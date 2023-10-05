@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ABAP Exception Pitfalls"
-description: "Like many languages, ABAP supports exception classes. However, using class-based exception in ABAP has various pitfalls which should be avoided."
+description: "ABAP offers three different exception root classes: CX_STATIC_CHECK, CX_DYNAMIC_CHECK and CX_NO_CHECK. These classes have pitfalls which should be avoided."
 date:   2023-01-11 18:00:01 +0100
 categories: code
 ---
