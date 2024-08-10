@@ -103,7 +103,7 @@ missed unless the book is read cover to cover. I am convinced Martin et al. neve
 codebases, but their book made it easy to be misunderstood. This is one reason why I consider "Clean Code" to be largely
 superseded by the mentioned "A Philosophy of Software Design", which takes great care to avoid such mistakes.
 
-Still, "Clean Code" is a classic and raised a lot of important points back in its day. I am glad to have read it in 2014
+Still, "Clean Code" is a classic and raised a lot of important points back in its day. I am glad to have read it in 2012
 and think people can still learn from it today, especially when it comes to proper naming of variables and functions. It
 certainly does not deserve the vitriol spewed online, especially since it does not even say what its critics claim it
 does.
