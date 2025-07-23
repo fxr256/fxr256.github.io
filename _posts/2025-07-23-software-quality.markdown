@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "The Three Facets of Software Quality"
+description: "Software quality is multifaceted. It can be split into functional, nonfunctional and structural quality. We should invest in all facets."
+date:   2025-07-23 7:26:01 +0100
+categories: testing
+---
+What is software quality? The term is frequently used, but a concrete and helpful definition is not easy to come by. While there is an [ISO standard for software quality](https://www.iso.org/standard/78175.html), it's very abstract and doesn't contain any actionable insights. [Wikipedia](https://en.wikipedia.org/wiki/Software_quality) has a more interesting definition, as it splits up the term into two distinct parts:
+>- Software's functional quality reflects how well it complies with or conforms to a given design, based on functional requirements or specifications.
+- Software structural quality refers to how it meets non-functional requirements that support the delivery of the functional requirements, such as robustness or maintainability.
+
+This definition is somewhat helpful as it illustrates an important point: software quality is multifaceted. Hence, further details are needed when talking about it. It makes no sense to just state that a piece of software is high or low quality without qualifying what facet we're talking about. Building on the Wikipedia definition, I think it makes sense to split software quality even further into these three facets:
+1. Functional quality
+2. Nonfunctional quality
+3. Structural quality
+
+Functional quality measures how well a piece of software fulfills its primary purpose. This includes features as well as [how easy the software is to implement](https://thinkingsideways.net/product/design/easy-implementations.html). Nonfunctional quality includes performance, reliability, and security. Last, structural quality encompasses maintainability as well as extensibility. Out of these three, structural quality is the odd man out, as it's primarily relevant to the software maker. The end user usually doesn't care how easily the software maker can change the code. However, the ability to painlessly modify existing software is crucial for keeping up with market demands. Hence, it's a bad idea to underinvest in structural quality. Failing to keep the structural quality up can result in serious problems. To make things worse, these problems can occur without any warning. For example, the widely used cryptographic library [OpenSSL](https://en.wikipedia.org/wiki/OpenSSL) suffered from a [very serious security flaw](https://en.wikipedia.org/wiki/Heartbleed) back in 2012. This vulnerability was caused by poor code quality, and OpenSSL's reputation has been permanently tarnished by it. That means that poor structural quality can also harm the end users even though they don't care about it under normal circumstances. 
+
+Clearly, it's important to keep quality up. But how exactly do we do that? Again, it depends on what facet of quality we're talking about. Functional quality is easy to improve, as we just need to add more features and fix any existing bugs. As a result, most software has at least decent functional quality despite the fact that there is a lot of confusion regarding the [impact of testing](https://thinkingsideways.net/testing/testing-vs-quality.html). Nonfunctional quality has many subfacets. Hence, there are many ways to improve it. For example, we might improve it by making our UIs accessible for users with disabilities, by improving the performance in high-load scenarios, or by adding two-factor authentication. The investment volume into certain aspects of nonfunctional quality usually ebbs and flows. For example, investments into accessibility might pick up when we're attempting to sell our software to the public sector, as it is a required feature in some parts of the world. Last, improving the structural quality of the software can be done, for example, by refactoring the code to make it easier to understand, by improving modularization, and by adding more automated tests.
+
+It's important to keep in mind that there can be tradeoffs between different quality facets. For example, adding a new feature will improve the software's functional quality. However, if said feature is sloppily implemented, it will reduce the software's structural quality, as the software is now harder to maintain. In the end, we may even end up with less quality than before if a code change was very poorly implemented. It's difficult to keep an eye on this, as all facets of software quality cannot be measured in any reliable way. Hence, we need to rely on our own judgment.
+
+### Conclusion
+Software quality is multifaceted. It can be split into functional, nonfunctional, and structural quality. Due to its multifaceted nature, we need to be precise when talking about software quality. We should invest in all facets of software quality, and we need to keep in mind that there can be tradeoffs between the different facets.
+
+If you liked this blog post, please share it with somebody. You can also follow me on [Twitter/X](https://twitter.com/fxr256).
