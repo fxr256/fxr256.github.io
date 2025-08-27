@@ -1,0 +1,156 @@
+---
+layout: post
+title:  "Guest Post: Killed by Apathy"
+description: "Apathy is a silent killer stalking the software industry. It has tremendous negative effects but is rarely acknowledged as a problem."
+date:   2025-08-27 09:26:01 +0100
+categories: people
+---
+
+### The Dangers of Apathy
+There is a silent killer stalking the software industry: apathy. Apathy can severely impair both individual
+employees and whole teams. It is infectious and can turn once great companies into mediocre shells or
+even paralyze them completely. And the worst part is that it is often seen as normal and inevitable.
+
+### What is Apathy?
+The [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/apathy) defines apathy
+as “behaviour that shows no interest or energy and shows that someone is unwilling to take action,
+especially over something important” which is too broad of a definition for this discussion. Instead,
+this blog post will use the following definition: Employees are suffering from apathy if they don’t
+care about the results of their work unless their performance is directly being measured based on them.
+
+Excellent employees are almost always intrinsically motivated. They will try to find the best solution
+for a coding problem, customer ticket, UI design, or whatever else they are currently working on,
+even if nobody but them cares. This drive is missing in apathetic employees. They can still produce
+acceptable results, but somebody would need to give them very specific acceptance criteria that cover
+everything their non-apathetic peers keep in mind when doing their work to get the same level of quality.
+Since this is not realistic, apathetic employees will usually produce worse results compared to their
+unafflicted co-workers.
+
+Since they are not intrinsically motivated, apathetic employees typically don’t think about their work
+process and what they would need to do to improve it (unless someone would tell them to do it, but
+this is very rare). As a result, apathetic employees typically [don’t show improvements over time](https://thinkingsideways.net/people/developer-growth.html),
+which leads to them falling behind the non-apathetic employees. Eventually, this can create vast
+gulfs of productivity inside a team.
+
+At first, apathy is a problem of the individual employee, but once other members of a team become
+affected, the entire team is in danger. Apathetic teams will see their productivity stagnate or even
+decline over time since they cannot compensate for losses of productivity caused by external factors.
+This is a massive problem since lower productivity makes it much more difficult to reduce technical
+debt and to achieve the working conditions needed for not having to choose between software quality
+and fast feature delivery. This situation can be very difficult to break out of once apathy has spread
+far enough in a team.
+
+How common is apathy? Since we cannot peer into the hearts and minds of employees, hard data is difficult
+to find. However, there are indicators, and they are not looking good. For example, Tom DeMarco and
+Timothy R. Lister mention in their excellent book [Peopleware](https://www.goodreads.com/book/show/67825.Peopleware)
+that employees in software development projects typically only spend 5% of their time attending trainings,
+investigating new methods, or doing other things that can improve long-term productivity. DeMarco
+and Lister also report that the average developer does not own a single book on software engineering
+and has also never read one. This data indicates a large portion of apathetic employees in the
+workforce, since intrinsically motivated employees spend considerable amounts of time with the
+activities DeMarco and Lister were hard-pressed to find and most certainly read books – or blogs –
+about software engineering.
+
+Before we go any further, I want to stress that raising awareness on apathy is not a call for perfectionism.
+Employees should not start feeling responsible for things outside of their control or obsess about
+individual factors of their work at the cost of the whole. Caring about results implies making judgment
+calls when something is “good enough” and compromises are not a sign of apathy (in fact, apathetic
+employees wouldn’t even think about what is good enough but just blindly do what they are told).
+
+I also want to point out that employees do not owe intrinsic motivation to their employer. If anything,
+they owe it to themselves, since they not only will become better at their job but also will have a
+much better time doing it. Over time, it might even get them that promotion they have always eyed.
+
+### Causes of Apathy
+There can be many causes of apathy. A common source can be personal problems like health issues,
+relationship troubles, or personal tragedies. We will call this type of apathy personal apathy.
+Personal apathy is serious but also individual and should hopefully not affect many employees at the
+same time, which reduces the risk for infection.
+
+Apathy can also be caused by the work itself. Let’s call this cultural apathy. Cultural apathy means
+that motivated employees slowly get the enthusiasm sucked out of them by the work environment. This is
+the worst kind of apathy since it is highly infectious. Unchecked cultural apathy is a surefire way to
+hamstring an entire organization.
+
+Cultural apathy is usually caused accidentally. Apathy grows when people feel that their work does not
+matter. Whether this impression is correct or not is irrelevant; if employees feel that the higher-ups
+do not care about the quality of the product or some other thing that is dear to their hearts, apathy
+will soon set in.
+
+The quickest way to cause cultural apathy is by rejecting or suppressing ideas raised by employees. If the
+team comes up with some idea on how to improve the product or their way of working, only to get
+stonewalled by their boss, motivation will invariably suffer. Once this has happened a couple of times,
+weary acceptance will set in and apathy will reign. Sometimes organizations even react hostile to the
+suggestion of changing something. If this happens, apathy becomes a defense mechanism to avoid punishment
+by the higher-ups, and only the bravest employees will resist it.
+
+Finally, there is wrong job apathy. Some employees have a job that isn’t right for them anymore and
+are just keeping it out of convenience or because they are scared to try something new. Naturally, they
+are only doing the bare minimum and aren’t interested in long-term success.
+
+### Leaders & Apathy
+Leaders can also be afflicted by apathy, which is especially dangerous since all eyes are on them. If
+they appear disinterested, their subordinates will notice and feel disheartened if they still care about
+their work. This makes leader apathy highly infectious.
+
+Development managers are particularly at risk since they are expected to manage their teams, to help
+their boss, and to keep up with their management peers. This can easily become overwhelming, and once
+they start cutting corners, they can quickly appear apathetic to others.
+
+### Apathy & the Developer Skill Matrix
+Long-term readers of this blog might be wondering how apathy affects the different types of developers
+outlined in the [developer skill matrix](https://thinkingsideways.net/people/developer-skill-matrix.html).
+Unsurprisingly, stars are almost never apathetic; their high-quality output simply would not be
+possible if they were not intrinsically motivated. Apathy might have started to creep in, and they might
+be coasting on their previous results, but this is very rare. By contrast, plants are almost certainly
+apathetic, especially if they have been in this quadrant for a year or longer without signs of improvement.
+
+Glaciers usually care too much about quality to be apathetic but might have the wrong definition of
+success. They obviously do not care about fast results or efficient ways of working, which is a problem
+in most software engineering jobs.
+
+Like the stars, volcanoes are almost never apathetic. They are driven to code, even if no one appreciates
+their breakneck speed. Indeed, their high drive is what makes volcanoes so dangerous. They want to be
+fast but don’t care about quality or maintainability, which prevents long-term success and shows intrinsic
+motivation on its own is not enough to achieve excellence.
+
+### Overcoming Apathy
+Apathy can only be cured by removing its cause. If you suffer from personal apathy, focus on your
+personal life first. Motivation at work will come back once your private affairs have settled down.
+
+For cultural apathy, try fixing small things at work that bother you. It is common that employees try
+to solve the big problems – maybe some other team is slowing you down or the Scrum process has some
+glaring faults everyone else ignores – which almost always need buy-in from others. These changes
+usually take a long time and fail more often than not.
+
+This can be very frustrating; however, it is rare that developers are so disempowered that they cannot
+change anything. Focus on what you can improve and do this first; over time you can gain a lot of
+ground this way. If you need buy-in from other people, try making it easy for them by only mentioning
+the problem when you already have a solution in mind. Avoid complaining about things that you cannot
+change or where you don’t have an actionable solution yet. While it can be cathartic to vent, doing
+this too often will make people label you as a complainer and ignore what you say.
+
+If the culture of your company is so apathetic and top-down that you cannot change anything, do yourself
+a favor and leave. The same is true if you secretly want a different kind of career and suffer from wrong
+job apathy; you are doing nobody a favor if you stick to a job you don’t really want.
+
+Finally, refrain from trying to fix the apathy of others. It is unlikely to work and could get you into
+serious trouble. You can only cure yourself and try to improve the culture around you. Similarly,
+leaders cannot micromanage apathy out of employees since intrinsic motivation by definition cannot
+be created by outside factors. They should instead focus on breaking cultural apathy, which is
+easier for them than for their subordinates.
+
+### Conclusion
+Apathy might seem like a natural response to the difficulties of the corporate world, but this is an
+illusion. It does not offer a solution to a problem but rather numbness to it, the acceptance of it
+as normal, and the removal of any expectation otherwise. This may help in the moment but is devastating
+for the long-term success of an individual employee and of the company as a whole.
+
+We all need to take steps to prevent and overcome apathy so we can continue to improve our way of
+working and get better results in the future. Leaders have to be especially mindful of it and make
+sure they do not accidentally create or perpetuate cultural apathy.
+
+If you liked this blog post, please share it with somebody. You should also have a look at the many
+blog posts from the main author. As for me, you can find me on [Twitter/X](https://twitter.com/Geisterschleier).
+
+
